@@ -1,2 +1,3 @@
-A simple screenshot tool . Built with Python and Tkinter.
+ScreenshotPy
 
+A simple screenshot tool . Built with Python and Tkinter.
